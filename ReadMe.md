@@ -6,7 +6,7 @@ Need readme.md file format
 markdown
 
 
-# SocialEagle AI For Kids - First Prize Winning Viral Ad
+# SocialEagle AI For Kids
 This document outlines the concept and detailed scene breakdown for a 60-second, high-impact viral advertisement for "SocialEagle AI For Kids." The goal is to create a blockbuster cinematic experience in 8K Ultra HD, designed to capture instant attention, forge an emotional connection, deliver a "wow" factor, and conclude with a memorable ending suitable for a first-prize-winning ad.
 ## Ad Overview
 *   **Title:** AI For Kids - First Prize Winning Viral Ad
