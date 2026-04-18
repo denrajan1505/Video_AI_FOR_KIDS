@@ -92,6 +92,6 @@ This document outlines the concept and detailed scene breakdown for a 60-second,
 *   **Sound:** Portal whoosh, magical synth.
 
 
-
+https://github.com/denrajan1505/Video_AI_FOR_KIDS/blob/main/Prompt_Battle/AI_for_kid.mp4
 Type a message...
 
